@@ -17,3 +17,9 @@
 
 	echo "krinanto belajar git";
 	echo "bersama";
+
+	echo "MIT";
+	echo "bersama";
+	echo "MIT";
+	echo "MIT";
+	echo "MIT2";

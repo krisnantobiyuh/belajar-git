@@ -6,14 +6,14 @@
 	</head>
 	<body>
 		<div class="content">
-			<input type="text" name="user" value="">
-			<input type="text" name="pass" value="">
+
 		</div>
 	</body>
 </html>
 
 <?php
 	echo"hello git ";
+	echo"hello git 2 ";
 
 	echo "krinanto belajar git";
 	echo "bersama";

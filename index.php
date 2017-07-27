@@ -7,3 +7,4 @@
 	echo "bersama";
 	echo "MIT";
 	echo "MIT";
+	echo "MIT2";

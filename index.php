@@ -6,7 +6,8 @@
 	</head>
 	<body>
 		<div class="content">
-
+			<input type="text" name="user" value="">
+			<input type="text" name="pass" value="">
 		</div>
 	</body>
 </html>
